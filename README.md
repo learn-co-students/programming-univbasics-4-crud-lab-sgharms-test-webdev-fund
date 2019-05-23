@@ -1,4 +1,4 @@
-# Array Lab: Create, Retrieve, Update, Delete
+Learning# Array Lab: Create, Retrieve, Update, Delete
 
 ## Learning Goals
 
@@ -21,7 +21,7 @@ of which is responsible for one of the tasks above.
 
 Let's go through the first challenge together.
 
-## `create_an_empty_array`
+## `create_an_empty_array`g
 
 Let's run our test suite to get started. Run the tests one at a time with the
 `learn --fail-fast` command in your terminal.
@@ -63,7 +63,11 @@ the end of the new array.
 ## `add_element_to_start_of_array`
 
 This method takes in two arguments, an array and the element we want to add to
+<<<<<<< HEAD
 it. Use the `#unshift` method to add that element to the start of that array.
+=======
+it. Use the `unshift` method to add that element to the start of that array.
+>>>>>>> 5be7734da3459bc7378674446a53aaa2871be1e8
 
 ## `remove_element_from_end_of_array`
 
@@ -73,12 +77,20 @@ the `#pop` method to remove the last item from the array.
 ## `remove_element_from_start_of_array`
 
 This method takes in one argument, the array on which we want to operate. Use
+<<<<<<< HEAD
 the `shift` method to remove the first item from the array.
+=======
+the `#shift` method to remove the first item from the array.
+>>>>>>> 5be7734da3459bc7378674446a53aaa2871be1e8
 
 ## `retrieve_element_from_index`
 
 This method takes in two arguments, an array and the index number whose element
+<<<<<<< HEAD
 we want to retrieve. Use the `[]`, bracket method to return the element stored
+=======
+we want to retrieve. Use the `[]`, bracket method, to return the element stored
+>>>>>>> 5be7734da3459bc7378674446a53aaa2871be1e8
 at that index number of the given array.
 
 ## `retrieve_first_element_from_array`
